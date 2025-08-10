@@ -1,4 +1,4 @@
-## Hey 👋, I'm Joshua, AKA Verty!
+## Hey 👋, I'm Rhys, AKA Verty!
 
 [![Follow @OnlyTrueVerty on Twiter](https://img.shields.io/badge/Twitter-grey?style=plastic&logo=X&logoColor=white)](https://l.verty.gay/twitter)
 [![BlueSky](https://img.shields.io/badge/BlueSky-grey?style=plastic&logo=bluesky&logoColor=white)](https://l.verty.gay/bluesky)
